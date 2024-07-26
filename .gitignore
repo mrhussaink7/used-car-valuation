@@ -1,0 +1,7 @@
+# Files To Be Ignored
+.DS_Store
+.ipynb_checkpoints
+
+# Data Files
+data/vehicles.csv
+data/vehicles.csv.zip
