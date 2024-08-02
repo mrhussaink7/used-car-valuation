@@ -1,6 +1,6 @@
 # Choosing The Right Car: A Guide To Not Getting Ripped Off!
 
-![image](../images/dataset_cover.png)
+![image](https://github.com/mrhussaink7/used-car-valuation/blob/main/images/dataset_cover.png)
 
 *Image Found on DepositPhotos.com*
 
@@ -34,7 +34,7 @@ Our goal is to provide actionable recommendations to consumers that will enhance
 
 `Recommendation:` Prioritize these factors when evaluating used cars, as they are reliable indicators of market value.
 
-![image](../images/solution_1.png)
+![image](https://github.com/mrhussaink7/used-car-valuation/blob/main/images/solution_1.png)
 
 ### 2. Be Cautious of Reported Condition
 
@@ -42,7 +42,7 @@ Our goal is to provide actionable recommendations to consumers that will enhance
 
 `Recommendation:` Don't rely solely on the listed condition. Thoroughly inspect the car or hire a professional to verify its true state.
 
-![image](../images/solution_2.png)
+![image](https://github.com/mrhussaink7/used-car-valuation/blob/main/images/solution_2.png)
 
 ### 3. Utilize the Price Error Range for Negotiations
 
@@ -50,7 +50,13 @@ Our goal is to provide actionable recommendations to consumers that will enhance
 
 `Recommendation:` Use this error range in negotiations. If a car is listed above the predicted price, it may be overpriced. If below, it might be a good deal, but verify for hidden issues.
 
-![image](../images/solution_3.png)
+![image](https://github.com/mrhussaink7/used-car-valuation/blob/main/images/solution_3.png)
+
+### Test-Method on Practical Use-Case
+
+![image](https://github.com/mrhussaink7/used-car-valuation/blob/main/images/test_1.png)
+![image](https://github.com/mrhussaink7/used-car-valuation/blob/main/images/test_2.png)
+![image](https://github.com/mrhussaink7/used-car-valuation/blob/main/images/test_3.png)
 
 ## Conclusion
 
@@ -61,7 +67,7 @@ Our goal is to provide actionable recommendations to consumers that will enhance
 ## Next Steps
 
 - #### Refine the Model with Carfax Data: Integrate Carfax data to gain a more accurate understanding of vehicle conditions and improve model predictions.
-- #### EGather Customer Reviews: Collect customer reviews to better understand different car models and enhance the model's insights.
+- #### Gather Customer Reviews: Collect customer reviews to better understand different car models and enhance the model's insights.
 - #### Deploy Basic Model on Website: Implement the basic model on our car section, allowing customers to see if a car is a good deal, bad deal, or fair deal as they navigate different listings.
 
 ## Repository Structure
