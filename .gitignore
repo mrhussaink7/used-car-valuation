@@ -3,6 +3,6 @@
 .ipynb_checkpoints
 
 # Data Files
-data/
 data/vehicles.csv
 data/vehicles.csv.zip
+data/clean_vehicles.csv
