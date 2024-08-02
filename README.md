@@ -24,7 +24,7 @@ In the folder `data`, we have datasets from:
 
 ## Solution
 
-Our goal is to provide actionable recommendations to consumers that will enhance their car buying decisions. We aim to offer three key suggestions based on data-driven insights from the Craigslist Used Car Price Prediction project. These recommendations are grounded in evidence and are designed to help consumers identify the best deals, avoid overpaying, and make informed choices, ultimately benefiting their car buying experience.
+By building a model that predicts car price, we can further evaluate if the car is within market trends to show the consumer whether the purchase would be a worthwhile and if they are getting a good deal or not. These recommendations are grounded in evidence and are designed to help consumers identify the best deals, avoid overpaying, and make informed choices, ultimately benefiting their car buying experience.
 
 ## Results
 
