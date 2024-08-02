@@ -54,9 +54,7 @@ Our goal is to provide actionable recommendations to consumers that will enhance
 
 ### Test-Method on Practical Use-Case
 
-![image](https://github.com/mrhussaink7/used-car-valuation/blob/main/images/test_1.png)
-![image](https://github.com/mrhussaink7/used-car-valuation/blob/main/images/test_2.png)
-![image](https://github.com/mrhussaink7/used-car-valuation/blob/main/images/test_3.png)
+![image](https://github.com/mrhussaink7/used-car-valuation/blob/gating/images/test_practical_use_case.png)
 
 ## Conclusion
 
