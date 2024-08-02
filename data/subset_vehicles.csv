@@ -1,7 +1,7 @@
 price,year,manufacturer,model,condition,odometer,cylinders,fuel,title_status,transmission,drive,type,paint_color,state
 5900,2001,lexus,ls43,excellent,160000.0,8 cylinders,gas,clean,automatic,rwd,sedan,white,ga
 8995,2010,ford,esca,good,102370.0,6 cylinders,gas,clean,automatic,fwd,SUV,blue,ny
-10500,1996,chevrolet,silv,new,100000.0,8 cylinders,gas,clean,automatic,4wd,truck,green,az
+10500,1996,chevrolet,silv,like new,100000.0,8 cylinders,gas,clean,automatic,4wd,truck,green,az
 19900,2012,rover,spor,excellent,88000.0,8 cylinders,gas,clean,automatic,4wd,SUV,black,ca
 15900,2015,mazda,cx5g,excellent,89700.0,4 cylinders,gas,clean,automatic,fwd,SUV,silver,nv
 10400,2010,toyota,priu,excellent,85967.0,4 cylinders,hybrid,clean,automatic,fwd,sedan,grey,in
@@ -236,7 +236,7 @@ price,year,manufacturer,model,condition,odometer,cylinders,fuel,title_status,tra
 8950,2016,chrysler,200,excellent,81330.0,4 cylinders,gas,clean,automatic,fwd,sedan,black,tx
 5999,2003,ford,must,good,95185.0,8 cylinders,gas,rebuilt,manual,rwd,coupe,grey,oh
 11999,2005,chevrolet,silv,excellent,176000.0,8 cylinders,gas,clean,automatic,4wd,truck,grey,ok
-11000,2007,ford,must,new,95000.0,8 cylinders,gas,clean,manual,rwd,coupe,red,az
+11000,2007,ford,must,like new,95000.0,8 cylinders,gas,clean,manual,rwd,coupe,red,az
 7999,2011,chevrolet,hhrl,good,127000.0,4 cylinders,gas,clean,automatic,fwd,hatchback,black,az
 13995,2007,mazda,mx5m,excellent,75367.0,4 cylinders,gas,clean,automatic,rwd,convertible,grey,oh
 10998,2014,ford,edge,like new,92478.0,6 cylinders,gas,clean,automatic,fwd,SUV,white,va
@@ -539,7 +539,7 @@ price,year,manufacturer,model,condition,odometer,cylinders,fuel,title_status,tra
 9999,2012,ford,f250,excellent,127613.0,8 cylinders,gas,clean,automatic,rwd,sedan,white,oh
 8888,2003,chevrolet,s10p,good,146128.0,6 cylinders,gas,rebuilt,automatic,4wd,truck,red,ia
 7500,1993,ford,f150,excellent,44333.0,8 cylinders,gas,clean,automatic,rwd,truck,white,ca
-8450,2013,mazda,cx9t,new,137000.0,6 cylinders,gas,clean,automatic,4wd,SUV,grey,ny
+8450,2013,mazda,cx9t,like new,137000.0,6 cylinders,gas,clean,automatic,4wd,SUV,grey,ny
 13000,2004,lexus,lx47,good,224000.0,8 cylinders,gas,clean,automatic,4wd,SUV,grey,ky
 12995,2016,chevrolet,cruz,like new,61127.0,4 cylinders,gas,clean,automatic,fwd,sedan,silver,mt
 18000,2008,lexus,gx47,excellent,129200.0,8 cylinders,gas,clean,automatic,4wd,SUV,black,mo
@@ -1024,7 +1024,7 @@ price,year,manufacturer,model,condition,odometer,cylinders,fuel,title_status,tra
 11800,2009,ford,f150,good,45000.0,8 cylinders,gas,clean,automatic,4wd,pickup,white,ny
 19800,2015,ford,expl,excellent,96281.0,6 cylinders,gas,clean,automatic,4wd,wagon,silver,ma
 14995,2010,bmw,550x,like new,115000.0,8 cylinders,gas,clean,automatic,4wd,sedan,grey,ca
-9550,2011,toyota,sien,new,160000.0,6 cylinders,gas,clean,automatic,fwd,van,silver,ri
+9550,2011,toyota,sien,like new,160000.0,6 cylinders,gas,clean,automatic,fwd,van,silver,ri
 6595,2011,kia,fort,excellent,128000.0,4 cylinders,gas,clean,automatic,fwd,coupe,blue,oh
 22900,2013,dodge,gran,good,93100.0,6 cylinders,gas,clean,automatic,fwd,van,red,ak
 13500,2016,mitsubishi,outl,excellent,79000.0,4 cylinders,gas,clean,automatic,fwd,SUV,white,fl
@@ -1476,7 +1476,7 @@ price,year,manufacturer,model,condition,odometer,cylinders,fuel,title_status,tra
 13500,2014,acura,mdx,excellent,71321.0,6 cylinders,gas,rebuilt,automatic,fwd,SUV,red,az
 11000,2010,lexus,rx45,good,64000.0,6 cylinders,gas,rebuilt,automatic,4wd,SUV,grey,nj
 6800,2010,honda,acco,good,109000.0,6 cylinders,gas,clean,automatic,fwd,sedan,custom,md
-18000,2019,honda,civi,new,1900.0,4 cylinders,gas,salvage,automatic,fwd,sedan,silver,ca
+18000,2019,honda,civi,like new,1900.0,4 cylinders,gas,salvage,automatic,fwd,sedan,silver,ca
 11480,2011,lexus,es35,excellent,135560.0,6 cylinders,gas,clean,automatic,fwd,sedan,grey,va
 14995,2013,ford,econ,good,118198.0,8 cylinders,other,clean,automatic,rwd,van,silver,ny
 21000,2019,chevrolet,cruz,excellent,23500.0,4 cylinders,gas,clean,automatic,fwd,sedan,white,ca
@@ -1766,7 +1766,7 @@ price,year,manufacturer,model,condition,odometer,cylinders,fuel,title_status,tra
 9495,2010,ford,f150,good,200202.0,8 cylinders,gas,clean,automatic,4wd,truck,grey,mi
 11900,2011,chrysler,300,good,131101.0,8 cylinders,gas,clean,automatic,rwd,sedan,black,wi
 15200,2007,bmw,650i,good,66000.0,8 cylinders,gas,clean,automatic,rwd,convertible,blue,nj
-7500,2014,hyundai,sona,new,126000.0,4 cylinders,gas,clean,automatic,fwd,sedan,brown,ct
+7500,2014,hyundai,sona,like new,126000.0,4 cylinders,gas,clean,automatic,fwd,sedan,brown,ct
 8288,2011,mazda,mazd,good,121452.0,4 cylinders,gas,clean,automatic,fwd,sedan,silver,ca
 18995,2014,gmc,acad,excellent,115000.0,6 cylinders,gas,clean,automatic,4wd,SUV,white,ny
 20980,2013,infiniti,qx56,excellent,132559.0,8 cylinders,gas,clean,automatic,rwd,SUV,black,tx
@@ -1974,7 +1974,7 @@ price,year,manufacturer,model,condition,odometer,cylinders,fuel,title_status,tra
 7900,2010,mitsubishi,lanc,excellent,85144.0,4 cylinders,gas,clean,manual,fwd,hatchback,blue,fl
 8995,2010,bmw,x5,excellent,148623.0,6 cylinders,gas,clean,automatic,4wd,SUV,black,or
 7200,1998,jeep,wran,excellent,164000.0,4 cylinders,gas,clean,manual,4wd,other,green,pa
-5995,2009,subaru,outb,new,140000.0,4 cylinders,gas,clean,automatic,fwd,hatchback,green,ri
+5995,2009,subaru,outb,like new,140000.0,4 cylinders,gas,clean,automatic,fwd,hatchback,green,ri
 13000,2001,mercedes-benz,benz,excellent,107000.0,8 cylinders,gas,clean,automatic,rwd,convertible,brown,co
 19976,2017,ford,tran,good,185964.0,6 cylinders,gas,clean,automatic,rwd,van,red,wi
 11588,2017,hyundai,sona,good,98933.0,4 cylinders,gas,clean,automatic,fwd,sedan,white,ca
@@ -2431,7 +2431,7 @@ price,year,manufacturer,model,condition,odometer,cylinders,fuel,title_status,tra
 15250,2014,bmw,328d,like new,114250.0,4 cylinders,diesel,clean,automatic,rwd,sedan,white,fl
 9673,2011,honda,crv,excellent,133912.0,4 cylinders,gas,clean,automatic,4wd,SUV,blue,nj
 7999,1993,jeep,wran,fair,138000.0,6 cylinders,gas,clean,manual,4wd,SUV,black,or
-13000,2013,chevrolet,trav,new,99000.0,6 cylinders,gas,clean,automatic,4wd,SUV,white,ri
+13000,2013,chevrolet,trav,like new,99000.0,6 cylinders,gas,clean,automatic,4wd,SUV,white,ri
 15500,2007,saturn,skyr,excellent,25915.0,4 cylinders,gas,clean,automatic,rwd,convertible,custom,fl
 6500,2004,ford,f250,good,100000.0,8 cylinders,diesel,clean,automatic,4wd,pickup,black,tx
 10999,2013,toyota,sien,excellent,159620.0,6 cylinders,gas,clean,automatic,fwd,van,yellow,hi
@@ -2523,7 +2523,7 @@ price,year,manufacturer,model,condition,odometer,cylinders,fuel,title_status,tra
 22500,2011,jeep,wran,excellent,146000.0,6 cylinders,gas,clean,automatic,4wd,SUV,yellow,ny
 11575,2011,chrysler,town,excellent,97887.0,6 cylinders,gas,clean,automatic,fwd,mini-van,white,in
 8300,2008,ford,f150,good,159000.0,8 cylinders,gas,clean,automatic,4wd,truck,white,ne
-5995,2005,hyundai,tucs,new,106229.0,6 cylinders,gas,clean,automatic,4wd,SUV,blue,ma
+5995,2005,hyundai,tucs,like new,106229.0,6 cylinders,gas,clean,automatic,4wd,SUV,blue,ma
 9500,2006,subaru,baja,good,143000.0,4 cylinders,gas,clean,manual,4wd,sedan,blue,id
 16900,2015,nissan,path,like new,78808.0,6 cylinders,gas,clean,automatic,fwd,SUV,red,al
 20800,2009,porsche,caye,like new,74000.0,8 cylinders,gas,clean,automatic,4wd,SUV,black,fl
@@ -2694,7 +2694,7 @@ price,year,manufacturer,model,condition,odometer,cylinders,fuel,title_status,tra
 6500,2008,ford,econ,good,200000.0,8 cylinders,gas,clean,automatic,rwd,van,white,pa
 10900,2013,honda,acco,like new,163222.0,6 cylinders,gas,clean,automatic,fwd,sedan,black,ca
 8990,2010,nissan,xter,excellent,144448.0,6 cylinders,gas,clean,automatic,4wd,SUV,black,va
-5995,2008,toyota,matr,new,159010.0,4 cylinders,gas,clean,automatic,fwd,hatchback,silver,ny
+5995,2008,toyota,matr,like new,159010.0,4 cylinders,gas,clean,automatic,fwd,hatchback,silver,ny
 19873,2013,ford,f150,excellent,121079.0,8 cylinders,gas,clean,automatic,4wd,pickup,yellow,ms
 17980,2011,chevrolet,1500,excellent,88241.0,8 cylinders,gas,clean,automatic,4wd,truck,blue,wi
 9999,2010,nissan,maxi,good,135000.0,6 cylinders,gas,clean,automatic,fwd,sedan,black,oh
@@ -2885,7 +2885,7 @@ price,year,manufacturer,model,condition,odometer,cylinders,fuel,title_status,tra
 10500,2012,gmc,terr,excellent,103000.0,4 cylinders,gas,clean,automatic,fwd,SUV,black,il
 7500,2014,jeep,patr,excellent,151000.0,4 cylinders,gas,clean,automatic,fwd,SUV,black,nc
 6950,2012,hyundai,sona,excellent,133947.0,4 cylinders,gas,clean,automatic,fwd,sedan,blue,mn
-15900,2015,buick,enco,new,16300.0,4 cylinders,gas,clean,automatic,fwd,SUV,custom,ny
+15900,2015,buick,enco,like new,16300.0,4 cylinders,gas,clean,automatic,fwd,SUV,custom,ny
 8490,2009,toyota,rav4,excellent,145000.0,4 cylinders,gas,clean,automatic,fwd,SUV,blue,fl
 20000,2003,ford,f250,excellent,124000.0,8 cylinders,diesel,clean,automatic,4wd,truck,white,ca
 14000,2008,jeep,wran,excellent,134000.0,6 cylinders,gas,clean,manual,4wd,truck,black,va
@@ -2915,7 +2915,7 @@ price,year,manufacturer,model,condition,odometer,cylinders,fuel,title_status,tra
 6800,2001,toyota,taco,fair,245000.0,6 cylinders,gas,clean,manual,4wd,pickup,white,nm
 7500,2011,gmc,acad,excellent,100000.0,4 cylinders,gas,clean,automatic,4wd,SUV,grey,il
 21000,2015,acura,mdx,excellent,91800.0,6 cylinders,gas,clean,automatic,4wd,SUV,silver,co
-21250,2002,ford,thun,new,15996.0,8 cylinders,gas,clean,automatic,fwd,convertible,yellow,al
+21250,2002,ford,thun,like new,15996.0,8 cylinders,gas,clean,automatic,fwd,convertible,yellow,al
 12000,2006,cadillac,dts,excellent,21425.0,8 cylinders,gas,clean,automatic,fwd,other,blue,ga
 18888,2014,dodge,chal,good,41262.0,6 cylinders,gas,clean,automatic,rwd,coupe,silver,ar
 11900,2011,toyota,sien,excellent,115501.0,6 cylinders,gas,clean,automatic,4wd,wagon,grey,ny
@@ -4043,7 +4043,7 @@ price,year,manufacturer,model,condition,odometer,cylinders,fuel,title_status,tra
 16900,2011,nissan,370z,excellent,117830.0,6 cylinders,gas,clean,automatic,fwd,coupe,silver,fl
 14800,2011,toyota,tund,good,194123.0,8 cylinders,gas,clean,automatic,rwd,truck,grey,ar
 10980,2013,mini,coun,excellent,90880.0,4 cylinders,gas,clean,automatic,fwd,wagon,blue,tx
-20000,2015,audi,a6,new,95000.0,6 cylinders,gas,clean,automatic,4wd,sedan,white,mi
+20000,2015,audi,a6,like new,95000.0,6 cylinders,gas,clean,automatic,4wd,sedan,white,mi
 5995,2008,gmc,envo,good,201000.0,6 cylinders,gas,clean,automatic,4wd,SUV,red,ks
 5977,2001,mercury,coug,excellent,147740.0,6 cylinders,gas,clean,manual,fwd,coupe,yellow,or
 11900,2013,honda,fit,good,33604.0,4 cylinders,gas,clean,automatic,fwd,hatchback,black,ia
@@ -4121,7 +4121,7 @@ price,year,manufacturer,model,condition,odometer,cylinders,fuel,title_status,tra
 13985,2017,cadillac,xts,like new,102913.0,6 cylinders,gas,clean,automatic,fwd,sedan,black,nj
 16495,2013,jeep,gran,excellent,90878.0,8 cylinders,other,clean,automatic,4wd,other,white,nj
 8995,2009,toyota,aval,good,159250.0,6 cylinders,gas,clean,automatic,fwd,sedan,custom,dc
-8900,2014,chrysler,town,new,127000.0,6 cylinders,gas,clean,automatic,fwd,mini-van,black,sc
+8900,2014,chrysler,town,like new,127000.0,6 cylinders,gas,clean,automatic,fwd,mini-van,black,sc
 5995,2006,infiniti,m35,excellent,203459.0,6 cylinders,gas,clean,automatic,rwd,sedan,black,mi
 10999,2016,chevrolet,cruz,excellent,24000.0,4 cylinders,gas,clean,manual,fwd,sedan,blue,or
 6995,1998,toyota,4run,excellent,200000.0,6 cylinders,gas,clean,automatic,4wd,SUV,white,ny
@@ -4319,7 +4319,7 @@ price,year,manufacturer,model,condition,odometer,cylinders,fuel,title_status,tra
 19975,2019,jeep,comp,good,32318.0,4 cylinders,gas,clean,automatic,fwd,SUV,black,tn
 6995,2004,jaguar,styp,excellent,104500.0,6 cylinders,gas,clean,automatic,rwd,sedan,red,co
 10999,2010,acura,tsx,excellent,116444.0,4 cylinders,gas,clean,automatic,fwd,sedan,white,ca
-16000,2021,ford,echo,new,300.0,3 cylinders,gas,clean,automatic,fwd,SUV,grey,tx
+16000,2021,ford,echo,like new,300.0,3 cylinders,gas,clean,automatic,fwd,SUV,grey,tx
 16495,2018,ford,fusi,good,36245.0,4 cylinders,electric,clean,automatic,fwd,sedan,black,ny
 9500,2014,honda,civc,like new,105000.0,4 cylinders,gas,clean,automatic,fwd,sedan,brown,fl
 7500,2015,ford,fusi,like new,146000.0,4 cylinders,gas,clean,automatic,fwd,sedan,silver,or
@@ -4721,7 +4721,7 @@ price,year,manufacturer,model,condition,odometer,cylinders,fuel,title_status,tra
 14997,2017,ford,esca,excellent,109239.0,4 cylinders,gas,clean,automatic,fwd,SUV,white,ok
 21990,2018,nissan,maxi,good,25500.0,6 cylinders,gas,clean,automatic,fwd,sedan,white,vt
 9300,2007,chevrolet,silv,good,150000.0,8 cylinders,gas,clean,automatic,rwd,truck,white,tx
-10995,2008,cadillac,esca,new,180000.0,8 cylinders,gas,clean,automatic,4wd,SUV,white,wa
+10995,2008,cadillac,esca,like new,180000.0,8 cylinders,gas,clean,automatic,4wd,SUV,white,wa
 5950,2012,jeep,patr,excellent,163000.0,4 cylinders,gas,clean,automatic,4wd,SUV,black,ny
 7900,2012,toyota,camr,good,199500.0,4 cylinders,gas,clean,automatic,fwd,sedan,blue,fl
 11988,2013,chrysler,300,good,97025.0,6 cylinders,gas,clean,automatic,rwd,sedan,black,oh
@@ -5669,7 +5669,7 @@ price,year,manufacturer,model,condition,odometer,cylinders,fuel,title_status,tra
 9999,2013,honda,fit,excellent,35000.0,4 cylinders,gas,clean,automatic,fwd,hatchback,grey,ca
 6500,2013,chrysler,200,excellent,78344.0,4 cylinders,gas,clean,automatic,fwd,sedan,black,ny
 13995,2016,chevrolet,equi,good,93073.0,4 cylinders,gas,clean,automatic,fwd,SUV,grey,ar
-18500,2020,buick,enco,new,6500.0,4 cylinders,gas,rebuilt,automatic,fwd,SUV,white,wi
+18500,2020,buick,enco,like new,6500.0,4 cylinders,gas,rebuilt,automatic,fwd,SUV,white,wi
 16995,2016,honda,acco,like new,74000.0,4 cylinders,gas,clean,automatic,fwd,sedan,red,id
 7800,2015,chevrolet,cruz,good,128300.0,4 cylinders,gas,clean,automatic,fwd,other,white,ct
 8400,2012,chevrolet,trav,good,159000.0,6 cylinders,gas,clean,automatic,fwd,SUV,red,co
@@ -5905,7 +5905,7 @@ price,year,manufacturer,model,condition,odometer,cylinders,fuel,title_status,tra
 9990,2012,hyundai,sona,good,58926.0,4 cylinders,gas,clean,manual,fwd,sedan,silver,ny
 6975,2009,toyota,camr,excellent,161000.0,4 cylinders,gas,clean,automatic,fwd,sedan,silver,ca
 14900,1999,lexus,lx47,good,258000.0,8 cylinders,gas,clean,automatic,4wd,SUV,black,ca
-11995,2015,nissan,alti,new,102457.0,4 cylinders,gas,clean,automatic,fwd,sedan,black,ca
+11995,2015,nissan,alti,like new,102457.0,4 cylinders,gas,clean,automatic,fwd,sedan,black,ca
 17500,2004,ford,f250,excellent,68000.0,8 cylinders,gas,clean,automatic,4wd,truck,silver,ny
 12900,2004,lexus,gx47,excellent,189000.0,8 cylinders,gas,clean,automatic,4wd,SUV,brown,co
 18523,2017,ford,poli,good,63428.0,6 cylinders,gas,clean,automatic,4wd,wagon,black,wi
@@ -6269,7 +6269,7 @@ price,year,manufacturer,model,condition,odometer,cylinders,fuel,title_status,tra
 14875,2014,audi,a6,good,101366.0,6 cylinders,gas,clean,automatic,4wd,sedan,grey,tn
 11900,2013,dodge,chal,good,132000.0,8 cylinders,gas,clean,automatic,rwd,coupe,purple,in
 6850,2010,toyota,coro,excellent,82620.0,4 cylinders,gas,clean,automatic,fwd,sedan,black,fl
-11995,2009,chevrolet,taho,new,135000.0,8 cylinders,gas,clean,automatic,4wd,SUV,black,tn
+11995,2009,chevrolet,taho,like new,135000.0,8 cylinders,gas,clean,automatic,4wd,SUV,black,tn
 10700,2007,lexus,is25,excellent,116000.0,6 cylinders,gas,clean,automatic,rwd,sedan,white,ca
 9000,2011,nissan,rogu,excellent,81825.0,4 cylinders,gas,rebuilt,automatic,4wd,SUV,grey,ct
 7995,2012,honda,civi,like new,105750.0,4 cylinders,gas,clean,automatic,fwd,sedan,blue,dc
@@ -7311,7 +7311,7 @@ price,year,manufacturer,model,condition,odometer,cylinders,fuel,title_status,tra
 6995,2014,chevrolet,cruz,good,78000.0,4 cylinders,gas,salvage,automatic,fwd,sedan,white,ne
 8990,2011,bmw,3ser,excellent,105221.0,6 cylinders,gas,clean,automatic,rwd,sedan,black,fl
 21990,2005,ford,econ,good,45554.0,8 cylinders,gas,clean,automatic,rwd,truck,white,me
-6495,2006,ford,expl,new,167000.0,8 cylinders,gas,clean,automatic,4wd,SUV,brown,ma
+6495,2006,ford,expl,like new,167000.0,8 cylinders,gas,clean,automatic,4wd,SUV,brown,ma
 22990,2006,ford,f450,excellent,63964.0,8 cylinders,diesel,clean,automatic,4wd,pickup,blue,mn
 14995,2016,ford,fusi,excellent,96170.0,4 cylinders,gas,clean,automatic,fwd,sedan,silver,or
 6500,1998,ram,1500,good,180000.0,8 cylinders,gas,clean,automatic,4wd,truck,grey,id
@@ -7760,7 +7760,7 @@ price,year,manufacturer,model,condition,odometer,cylinders,fuel,title_status,tra
 18995,2011,chevrolet,taho,excellent,142000.0,8 cylinders,gas,clean,automatic,4wd,SUV,black,id
 11995,2016,ford,fusi,excellent,105280.0,4 cylinders,gas,clean,automatic,fwd,sedan,black,ca
 9999,2018,kia,fort,good,39808.0,4 cylinders,gas,rebuilt,automatic,fwd,sedan,black,mi
-20900,2019,chevrolet,cruz,new,49.0,4 cylinders,gas,rebuilt,automatic,fwd,sedan,blue,ia
+20900,2019,chevrolet,cruz,like new,49.0,4 cylinders,gas,rebuilt,automatic,fwd,sedan,blue,ia
 7949,2007,jeep,gran,excellent,114772.0,8 cylinders,gas,clean,automatic,rwd,SUV,blue,ca
 8995,2001,bmw,330c,excellent,115613.0,6 cylinders,gas,clean,automatic,rwd,convertible,black,fl
 7900,2000,cadillac,devi,excellent,78000.0,8 cylinders,gas,clean,automatic,fwd,sedan,silver,or
@@ -7855,7 +7855,7 @@ price,year,manufacturer,model,condition,odometer,cylinders,fuel,title_status,tra
 14000,2005,chevrolet,silv,excellent,320000.0,8 cylinders,diesel,clean,automatic,4wd,truck,white,mn
 11999,2010,acura,tlba,good,94893.0,6 cylinders,gas,clean,automatic,fwd,sedan,grey,wa
 13500,2011,chevrolet,expr,like new,100000.0,8 cylinders,gas,clean,automatic,rwd,mini-van,white,ny
-5995,2005,hyundai,tucs,new,106229.0,6 cylinders,gas,clean,automatic,4wd,SUV,blue,ny
+5995,2005,hyundai,tucs,like new,106229.0,6 cylinders,gas,clean,automatic,4wd,SUV,blue,ny
 20991,2011,toyota,tund,good,98865.0,8 cylinders,gas,clean,automatic,rwd,truck,black,ks
 19653,2017,nissan,rogu,excellent,39118.0,4 cylinders,gas,clean,automatic,4wd,SUV,grey,tn
 6350,2013,toyota,coro,excellent,184000.0,4 cylinders,gas,clean,automatic,fwd,sedan,silver,al
@@ -7874,7 +7874,7 @@ price,year,manufacturer,model,condition,odometer,cylinders,fuel,title_status,tra
 14888,2013,ford,fusi,like new,43866.0,4 cylinders,hybrid,clean,automatic,fwd,sedan,white,ca
 13995,2016,kia,fort,good,51737.0,4 cylinders,gas,clean,automatic,rwd,sedan,black,ca
 17993,2016,honda,hrve,excellent,59012.0,4 cylinders,gas,clean,automatic,4wd,SUV,grey,id
-10999,2014,ford,fusi,new,117881.0,6 cylinders,hybrid,clean,automatic,fwd,sedan,grey,ga
+10999,2014,ford,fusi,like new,117881.0,6 cylinders,hybrid,clean,automatic,fwd,sedan,grey,ga
 16499,2010,cadillac,esca,good,113903.0,8 cylinders,gas,clean,automatic,4wd,SUV,white,dc
 14995,2017,volkswagen,pass,excellent,88104.0,4 cylinders,gas,clean,automatic,fwd,sedan,grey,mn
 7500,2008,volvo,xc90,like new,107000.0,6 cylinders,gas,clean,automatic,4wd,SUV,blue,ny
@@ -8008,7 +8008,7 @@ price,year,manufacturer,model,condition,odometer,cylinders,fuel,title_status,tra
 8000,2009,rover,lr2h,good,109000.0,6 cylinders,gas,clean,automatic,4wd,SUV,red,fl
 7975,2006,chevrolet,silv,excellent,272000.0,8 cylinders,gas,clean,automatic,rwd,truck,green,ca
 12480,2016,volkswagen,jett,excellent,44229.0,4 cylinders,gas,clean,manual,fwd,sedan,silver,ks
-14900,2016,honda,crv,new,38000.0,4 cylinders,gas,rebuilt,automatic,4wd,SUV,black,nj
+14900,2016,honda,crv,like new,38000.0,4 cylinders,gas,rebuilt,automatic,4wd,SUV,black,nj
 14500,2013,chevrolet,cama,excellent,60869.0,6 cylinders,gas,clean,manual,rwd,coupe,black,mi
 17300,2019,ford,f150,like new,20599.0,6 cylinders,gas,clean,automatic,rwd,truck,white,tn
 14977,2016,kia,sore,excellent,110197.0,4 cylinders,gas,clean,automatic,fwd,SUV,black,ca
@@ -8080,7 +8080,7 @@ price,year,manufacturer,model,condition,odometer,cylinders,fuel,title_status,tra
 5795,2005,cadillac,srx,good,138675.0,6 cylinders,gas,clean,automatic,rwd,SUV,black,ia
 7999,2012,volkswagen,cc,excellent,102000.0,4 cylinders,gas,clean,automatic,fwd,sedan,black,ia
 17995,2015,ford,expl,good,130510.0,6 cylinders,gas,clean,automatic,4wd,other,red,ca
-11000,2013,nissan,alti,new,96001.0,4 cylinders,gas,clean,automatic,fwd,sedan,black,ky
+11000,2013,nissan,alti,like new,96001.0,4 cylinders,gas,clean,automatic,fwd,sedan,black,ky
 15995,2013,ford,f350,excellent,60000.0,8 cylinders,other,clean,automatic,rwd,truck,white,ok
 9500,2007,ram,2500,good,161000.0,8 cylinders,gas,lien,automatic,4wd,truck,black,wi
 21288,2011,ram,1500,good,163436.0,8 cylinders,gas,clean,automatic,4wd,pickup,brown,ca
@@ -9586,7 +9586,7 @@ price,year,manufacturer,model,condition,odometer,cylinders,fuel,title_status,tra
 20772,2017,honda,civi,excellent,61625.0,4 cylinders,gas,clean,automatic,fwd,sedan,black,tx
 15800,2017,ford,tran,excellent,191000.0,6 cylinders,gas,clean,automatic,rwd,van,white,fl
 7900,2013,gmc,terr,excellent,152000.0,4 cylinders,gas,clean,automatic,4wd,SUV,silver,wi
-16900,2008,bmw,6ser,new,62083.0,8 cylinders,gas,clean,automatic,4wd,convertible,white,ok
+16900,2008,bmw,6ser,like new,62083.0,8 cylinders,gas,clean,automatic,4wd,convertible,white,ok
 5950,2012,chevrolet,cruz,excellent,89796.0,4 cylinders,gas,clean,automatic,fwd,sedan,silver,fl
 7900,2004,dodge,gran,good,131000.0,6 cylinders,gas,clean,automatic,fwd,mini-van,blue,wi
 7500,2011,nissan,xter,excellent,175824.0,6 cylinders,gas,clean,automatic,4wd,SUV,black,ma
