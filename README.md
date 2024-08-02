@@ -83,11 +83,8 @@ Our goal is to provide actionable recommendations to consumers that will enhance
 │   ├── solution_1.png
 │   ├── solution_2.png
 │   ├── solution_3.png
-│   ├── test_1.png
-│   ├── test_2.png
-│   ├── test_3.png
+│   ├── test_practical_use_case.png
 ├── LICENSE
 ├── README.md
-├── film_data_analysis.ipynb
-└── film_data_analysis_presentation.pdf
+├── craigslist_used_car_deals_presentation.pdf
 ```
