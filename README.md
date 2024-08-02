@@ -1,4 +1,4 @@
-# Choosing The Right Used Car with Predictive Price Modeling
+# Choosing The Right Used Car with Price Modeling
 
 ![image](https://github.com/mrhussaink7/used-car-valuation/blob/main/images/dataset_cover.png)
 
