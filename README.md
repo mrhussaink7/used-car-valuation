@@ -20,7 +20,7 @@ Our goal is to provide actionable recommendations to consumers that will directl
 
 In the folder `data`, we have datasets from:
 
-- [Kaggle Data Scraped From Collegep](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data)
+- [Kaggle Data Scraped From Craigslist](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data)
 
 ## Solution
 
