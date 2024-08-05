@@ -52,7 +52,8 @@ By building a model that predicts car price, we can further evaluate if the car 
 
 ![image](https://github.com/mrhussaink7/used-car-valuation/blob/main/images/solution_3.png)
 
-### Test-Method on Practical Use-Case
+### Practical Use-Case
+Our model essentially takes used vehicle details and outputs a predicted price and a determination of whether it's a good deal, bad deal, or fair deal, based on the threshold of whether it exceeds, within, or below the price error range outputted by the model.
 
 ![image](https://github.com/mrhussaink7/used-car-valuation/blob/gating/images/test_practical_use_case.png)
 
